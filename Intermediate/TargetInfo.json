@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Mymode",
+			"Path": "..\\Source\\Mymode.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MymodeEditor",
+			"Path": "..\\Source\\MymodeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

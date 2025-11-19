@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\CS\\Mymode\\Source\\Mymode\\Mymode.Build.cs",
+		"D:\\CS\\Mymode\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"D:\\CS\\Mymode\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"D:\\CS\\Mymode\\Source\\Mymode.Target.cs",
+		"D:\\CS\\Mymode\\Source\\MymodeEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.0"
+}
